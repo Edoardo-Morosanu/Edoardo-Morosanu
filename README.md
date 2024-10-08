@@ -18,7 +18,7 @@ root@github:~$ ./load_profile.sh
 Loading profile...
 [████████████████████] 100%
 
-🎓 Software Developer | 🎓 University Student | 🐧 Linux User
+🎓 Software Developer | 🎓 University Student
 
 root@github:~$ ./display_skills.sh
 
